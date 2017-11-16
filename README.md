@@ -1,5 +1,6 @@
 # Web-Scraping
 Assignment
 
+#HTML Element - Website specific advertisements
 
-browser.visit('htps://www/google.com')
+//*[@id="exit-button"]
