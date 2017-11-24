@@ -1,6 +1,6 @@
 # Web-Scraping
 Assignment
-
+```python
 import urllib2
 import time
 
@@ -25,3 +25,4 @@ def WebData():
 
 
 WebData()
+```
